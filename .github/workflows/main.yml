@@ -2,7 +2,7 @@ name: itvlist
 
 on:
   schedule:
-    - cron: '0 9,21 * * *'
+    - cron: '30 0/4, * * *'
   push:
     branches:
       - main
@@ -28,8 +28,8 @@ jobs:
         
       - name: 提交更改
         run: |
-          git config --local user.email "ssili@126.com"
-          git config --local user.name "ssili126"
+          git config --local user.email "343315604@qq.com"
+          git config --local user.name "nrb222"
           git add .
           git commit *.txt -m "Add generated file"
           git push -f
