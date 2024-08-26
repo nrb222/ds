@@ -21,9 +21,11 @@
 河北都市,http://111.225.92.237:33333/hls/20/index.m3u8
 河北都市,http://111.225.93.145:33333/hls/20/index.m3u8
 睛彩河北,http://121.18.43.254:10000/hls/48/index.m3u8
+石家庄娱乐,http://123.183.76.240:808/hls/24/index.m3u8
 石家庄娱乐,http://123.183.77.67:808/hls/24/index.m3u8
 石家庄平顶山水库画面,http://111.225.92.237:33333/hls/96/index.m3u8
 石家庄平顶山水库画面,http://111.225.93.145:33333/hls/96/index.m3u8
+石家庄新闻综合,http://123.183.76.240:808/hls/23/index.m3u8
 石家庄新闻综合,http://123.183.77.67:808/hls/23/index.m3u8
 石家庄正定古城画面,http://111.225.92.237:33333/hls/93/index.m3u8
 石家庄正定古城画面,http://111.225.93.145:33333/hls/93/index.m3u8
@@ -33,10 +35,10 @@
 石家庄正定隆兴寺画面,http://111.225.93.145:33333/hls/108/index.m3u8
 石家庄滹沱河画面,http://111.225.92.237:33333/hls/95/index.m3u8
 石家庄滹沱河画面,http://111.225.93.145:33333/hls/95/index.m3u8
+石家庄生活,http://123.183.76.240:808/hls/25/index.m3u8
 石家庄生活,http://123.183.77.67:808/hls/25/index.m3u8
-石家庄生活,http://27.185.1.27:8092/hls/22/index.m3u8
+石家庄都市,http://123.183.76.240:808/hls/26/index.m3u8
 石家庄都市,http://123.183.77.67:808/hls/26/index.m3u8
-石家庄都市,http://27.185.1.27:8092/hls/21/index.m3u8
 石家庄鹿泉德明古镇画面,http://111.225.92.237:33333/hls/106/index.m3u8
 石家庄鹿泉德明古镇画面,http://111.225.93.145:33333/hls/106/index.m3u8
 央视频道,#genre#
@@ -59,6 +61,7 @@ CCTV14,http://111.225.92.237:33333/hls/14/index.m3u8
 CCTV15,http://110.251.158.249:8008/hls/15/index.m3u8
 CCTV15,http://111.225.92.237:33333/hls/15/index.m3u8
 CCTV16外语,http://110.251.158.249:8008/hls/16/index.m3u8
+CCTV16测试,http://123.183.76.240:808/hls/666/index.m3u8
 CCTV16测试,http://123.183.77.67:808/hls/666/index.m3u8
 CCTV17,http://111.225.92.237:33333/hls/16/index.m3u8
 CCTV17,http://111.225.93.145:33333/hls/16/index.m3u8
@@ -179,6 +182,7 @@ cetv2,http://121.18.43.254:10000/hls/78/index.m3u8
 cetv4,http://121.18.43.254:10000/hls/77/index.m3u8
 kaku少儿,http://111.225.92.237:33333/hls/61/index.m3u8
 kaku少儿,http://111.225.93.145:33333/hls/61/index.m3u8
+test,http://123.183.76.240:808/hls/200/index.m3u8
 test,http://123.183.77.67:808/hls/200/index.m3u8
 三佳购物,http://121.24.99.229:8090/hls/69/index.m3u8
 上海东方,http://121.24.99.229:8090/hls/77/index.m3u8
@@ -199,12 +203,13 @@ test,http://123.183.77.67:808/hls/200/index.m3u8
 保定3,http://111.225.93.145:33333/hls/65/index.m3u8
 保定东湖画面,http://111.225.92.237:33333/hls/83/index.m3u8
 保定东湖画面,http://111.225.93.145:33333/hls/83/index.m3u8
+保定公共,http://123.183.76.240:808/hls/113/index.m3u8
 保定公共,http://123.183.77.67:808/hls/113/index.m3u8
 保定定州画面,http://111.225.92.237:33333/hls/86/index.m3u8
 保定定州画面,http://111.225.93.145:33333/hls/86/index.m3u8
 保定文化娱乐,http://121.18.43.254:10000/hls/51/index.m3u8
 保定新闻综合,http://121.18.43.254:10000/hls/49/index.m3u8
-保定新闻综合,http://123.183.77.67:808/hls/73/index.m3u8
+保定新闻综合,http://123.183.76.240:808/hls/73/index.m3u8
 保定白石山,http://111.225.92.237:33333/hls/85/index.m3u8
 保定白石山,http://111.225.93.145:33333/hls/85/index.m3u8
 保定经济生活,http://121.18.43.254:10000/hls/50/index.m3u8
@@ -220,6 +225,7 @@ test,http://123.183.77.67:808/hls/200/index.m3u8
 动漫秀场,http://111.225.92.237:33333/hls/127/index.m3u8
 动漫秀场,http://111.225.93.145:33333/hls/127/index.m3u8
 动画电影,http://121.24.99.229:8090/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_donghuadianying_1080p_t10/c16_lb_donghuadianying_1080p_t10.m3u8
+北京纪实,http://123.183.76.240:808/hls/86/index.m3u8
 北京纪实,http://123.183.77.67:808/hls/86/index.m3u8
 北京纪实科教,http://111.225.92.237:33333/hls/58/index.m3u8
 北京纪实科教,http://111.225.93.145:33333/hls/58/index.m3u8
@@ -231,9 +237,10 @@ test,http://123.183.77.67:808/hls/200/index.m3u8
 周末影院,http://121.24.99.229:8090/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_fengxiaogang_1080p_t10/c16_lb_fengxiaogang_1080p_t10.m3u8
 国学,http://121.18.43.254:10000/hls/87/index.m3u8
 国防军事,http://111.61.236.247:9081/hls/61/index.m3u8
-国防军事,http://123.183.77.67:808/hls/88/index.m3u8
+国防军事,http://123.183.76.240:808/hls/88/index.m3u8
 女性时尚,http://110.251.158.249:8008/hls/47/index.m3u8
 女性时尚,http://111.61.236.247:9081/hls/59/index.m3u8
+安新电视,http://123.183.76.240:808/hls/65/index.m3u8
 安新电视,http://123.183.77.67:808/hls/65/index.m3u8
 安新电视台,http://111.225.92.237:33333/hls/77/index.m3u8
 安新电视台,http://111.225.93.145:33333/hls/77/index.m3u8
